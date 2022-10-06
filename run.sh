@@ -1,0 +1,1 @@
+python3 ~/Documents/hacking/DownloadsOrganizer/main.py
